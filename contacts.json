@@ -1,5 +1,5 @@
 {
-  "_how_to_edit": "Fill email and phone for each person. photo is optional: put the image in the photos folder and write its path, e.g. photos/song.jpg. Leave it empty to keep the LinkedIn photo or the initials.",
+  "_como_editar": "Preencha email e phone de cada pessoa. photo é opcional: coloque a imagem na pasta photos e escreva o caminho, ex.: photos/song.jpg. Deixe vazio para manter a foto do LinkedIn ou as iniciais.",
   "campanella": {
     "name": "André Campanella",
     "lp": "J. Mendes Family Office",
@@ -15,8 +15,15 @@
     "photo": ""
   },
   "dcg-mario": {
-    "name": "Mario",
+    "name": "Mario Mena",
     "lp": "Digital Currency Group",
+    "email": "",
+    "phone": "",
+    "photo": ""
+  },
+  "olmedo": {
+    "name": "Gonzalo Olmedo",
+    "lp": "Winclap / Olmedo Family Office",
     "email": "",
     "phone": "",
     "photo": ""
@@ -31,13 +38,6 @@
   "cecilia": {
     "name": "María Cecilia Martínez",
     "lp": "BICE",
-    "email": "",
-    "phone": "",
-    "photo": ""
-  },
-  "olmedo": {
-    "name": "Gonzalo Olmedo",
-    "lp": "Winclap / Olmedo Family Office",
     "email": "",
     "phone": "",
     "photo": ""
@@ -66,6 +66,13 @@
   "mclaughlin": {
     "name": "Will McLaughlin",
     "lp": "BNY",
+    "email": "",
+    "phone": "",
+    "photo": ""
+  },
+  "zaki": {
+    "name": "Miray Zaki",
+    "lp": "Al Liwan",
     "email": "",
     "phone": "",
     "photo": ""
